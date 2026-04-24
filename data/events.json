@@ -1,0 +1,47 @@
+[
+  {
+    "city": "Toronto",
+    "country": "CA",
+    "status": "upcoming",
+    "date": "2026-06-01",
+    "venue": "TBD",
+    "cohost": "TBD",
+    "url": null
+  },
+  {
+    "city": "Ottawa",
+    "country": "CA",
+    "status": "upcoming",
+    "date": null,
+    "venue": null,
+    "cohost": null,
+    "url": null
+  },
+  {
+    "city": "Vancouver",
+    "country": "CA",
+    "status": "host-wanted",
+    "date": null,
+    "venue": null,
+    "cohost": null,
+    "url": null
+  },
+  {
+    "city": "Montreal",
+    "country": "CA",
+    "status": "host-wanted",
+    "date": null,
+    "venue": null,
+    "cohost": null,
+    "url": null
+  },
+  {
+    "city": "Calgary",
+    "country": "CA",
+    "status": "host-wanted",
+    "date": null,
+    "venue": null,
+    "cohost": null,
+    "url": null
+  }
+]
