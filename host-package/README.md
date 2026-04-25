@@ -67,7 +67,7 @@ Everything you need to run a Clicks event in your city.
 
 - [ ] Send thank-you to speakers and co-host
 - [ ] Post photos to Discord
-- [ ] Submit post-mortem PR (use template in `templates/`)
+- [ ] Submit event feedback PR (use template in `templates/`)
 - [ ] Share any lessons back to this repo
 
 ---
