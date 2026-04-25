@@ -1,6 +1,6 @@
 # clicks — events
 
-Event records, host packages, and post-mortems for Clicks — a city-wide partner meetup series for the Shopify ecosystem.
+Event records, host packages, and event feedback for Clicks — a city-wide partner meetup series for the Shopify ecosystem.
 
 ## Structure
 
@@ -12,9 +12,9 @@ events/
   cities/                # One folder per city, one subfolder per event
     toronto/
       2026-05/
-        post-mortem.md
+        event-feedback.md
   templates/
-    post-mortem.md       # Post-mortem template
+    event-feedback.md    # Event feedback template
 ```
 
 ## Running an event in your city
@@ -22,7 +22,7 @@ events/
 1. Read the [host package](./host-package/README.md)
 2. Open an issue using the Event Proposal template
 3. Run the event
-4. Submit a post-mortem PR to `cities/your-city/YYYY-MM/`
+4. Submit an event feedback PR to `cities/your-city/YYYY-MM/`
 
 ## License
 
