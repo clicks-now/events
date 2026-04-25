@@ -1,0 +1,5 @@
+# All PRs require mods review
+* @clicks-now/mods
+
+# Events data — mods only
+data/events.json @clicks-now/mods
